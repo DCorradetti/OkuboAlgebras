@@ -1,7 +1,9 @@
 # A minimal and non-alternative realisation of the Cayley plane
-[![Paper](https://img.shields.io/badge/RA.Math-Preprint-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2309.00967) [![Paper](https://img.shields.io/badge/PDF-open_access-green)](https://rdcu.be/dAxUA)
+[![Paper](https://img.shields.io/badge/RAMath-Preprint-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2309.00967) 
+[![Open Access PDF](https://img.shields.io/badge/PDF-open_access-green)](https://rdcu.be/dAxUA)
 Daniele Corradetti $^{*a,*b}$ , Alessio Marrani $^{\dagger}$, Francesco
 Zucconi $^{\ddagger}$
+ 
 
 $*a$ Departamento de Matemática, Universidade do Algarve, Campus de Gambelas, 8005-139 Faro, Portugal </br>
 $*b$ Grupo de Física Matemática, Instituto Superior Técnico,  Av. Rovisco Pais, 1049-001 Lisboa Portugal </br>
