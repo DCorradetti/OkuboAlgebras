@@ -1,27 +1,15 @@
-#A minimal and non-alternative realisation of the Cayley plane
-Daniele Corradetti$^{*a,*b}$, Alessio Marrani $^{\dagger}$, Francesco
-Zucconi $^{\ddagger}$}
+# A minimal and non-alternative realisation of the Cayley plane
+[![Paper](https://img.shields.io/badge/RA.Math-Preprint-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2309.00967) [![Paper](https://img.shields.io/badge/PDF-open_access-green)](https://rdcu.be/dAxUA)
+Daniele Corradetti $^{*a,*b}$ , Alessio Marrani $^{\dagger}$, Francesco
+Zucconi $^{\ddagger}$
 
-$*a$ Departamento de Matemática, 
- Universidade do Algarve,  
-\noun{Campus de Gambelas,  
-\noun{8005-139 Faro, Portugal 
-$*b$  Grupo de Física Matemática,  
- Instituto Superior Técnico,  
- Av. Rovisco Pais, 
- 1049-001 Lisboa Portugal 
-
-$\dagger$Instituto de Física Teorica, Dep.to de Física,
-Universidad de Murcia, 
-Campus de Espinardo,
-E-30100, Spain
-
-$\ddagger$Dipartimento di Scienze Matematiche, Informatiche e Fisiche,
-Università di Udine,
-Udine, 33100, Italy
+$*a$ Departamento de Matemática, Universidade do Algarve, Campus de Gambelas, 8005-139 Faro, Portugal </br>
+$*b$ Grupo de Física Matemática, Instituto Superior Técnico,  Av. Rovisco Pais, 1049-001 Lisboa Portugal </br>
+$\dagger$ Instituto de Física Teorica, Dep.to de Física, Universidad de Murcia, Campus de Espinardo,E-30100, Spain </br>
+$\ddagger$ Dipartimento di Scienze Matematiche, Informatiche e Fisiche, Università di Udine, Udine, 33100, Italy</br>
 
 
-##Abstract##
+## Abstract 
 The compact 16-dimensional Moufang plane, also known as the Cayley plane, has traditionally been defined through the lens of octonionic geometry. In this study, we present a novel approach, demonstrating
 that the Cayley plane can be defined in an equally clean, straightforward and more economic way using two different division and composition algebras: the paraoctonions and the Okubo algebra. The result is quite
 surprising since paraoctonions and Okubo algebra possess a weaker algebraic structure than the octonions, since they are non-alternative and do not satisfy the Moufang identities. Intriguingly, the real Okubo
